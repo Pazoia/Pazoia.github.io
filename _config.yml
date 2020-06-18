@@ -9,15 +9,11 @@ markdown: kramdown
 #Links that will appear in the navbar
 primarylinks:
  - title: Blog
-   url: https://automateddeveloper.blogspot.com/
+   url: https://zero2coding.wixsite.com/website
  - title: GitHub
-   url: https://github.com/robhinds
- - title: StackOverflow
-   url: https://stackoverflow.com/users/258813/rhinds
- - title: DZone
-   url: https://dzone.com/users/899489/rhinds.html
+   url: https://github.com/Pazoia
  - title: LinkedIn
-   url: https://www.linkedin.com/pub/rob-hinds/21/361/3b1
+   url: https://www.linkedin.com/in/paulo-azoia-5b9045a0/
 
 #Any buzzword skills you want to include
 techskills:
@@ -110,11 +106,11 @@ codecademy:
 
 #List of interesting Github repo/projects to include - optional
 github:
-  - Pazoia/Pazoia.github.io
-  - Peter2-71828/PongNotPong
-  - Pazoia/PAZUL
-  - Peter2-71828/MakersBNB
-  - Megscode/acebook_undefined
+ - Pazoia/Pazoia.github.io
+ - Peter2-71828/PongNotPong
+ - Pazoia/PAZUL
+ - Peter2-71828/MakersBNB
+ - Megscode/acebook_undefined
 
 intro: |
    I am a motivated full stack junior developer ready for a challenge and keen to keep learning. <br/><br/>
