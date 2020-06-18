@@ -110,11 +110,11 @@ codecademy:
 
 #List of interesting Github repo/projects to include - optional
 github:
- - pazoia/Pazoia.github.io
- - peter2-71828/PongNotPong
- - pazoia/PAZUL
- - peter2-71828/MakersBNB
- - megscode/acebook_undefined
+ - Pazoia/Pazoia.github.io
+ - Peter2-71828/PongNotPong
+ - Pazoia/PAZUL
+ - Peter2-71828/MakersBNB
+ - Megscode/acebook_undefined
 
 intro: |
    I am a motivated full stack junior developer ready for a challenge and keen to keep learning. <br/><br/>
