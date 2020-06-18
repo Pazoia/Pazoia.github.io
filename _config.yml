@@ -47,32 +47,42 @@ blogfeed: https://automateddeveloper.blogspot.com/feeds/posts/default?alt=json
 
 #Work experience is required
 roles:
- - title: Makers Academy Bootcamp
+ - title: Software Developer Student
    start: 2019
    end: 2020
-   employer: Software Developer Student
-   description: |
-* The bootcamp covered multiple languages throughout including Ruby, JavaScript and HTML which promoted the ability of being language agnostic and challenging me to apply these languages in practical projects. <br/>
-* Learning Test Driven Development and the long-term benefits of using it.<br/>
-* Regular research on new concepts, working on individual projects and continuously reaffirming knowledge from workshops.<br/>
-* Practicing agile software development through driver-navigator style collaborative pairing, daily stand-ups and retros which also working on group projects.<br/>
-* Final project at Makers, my group was very keen on working in a machine learning / AI project. We set ourselves a challenge to learn python, using libraries like OpenCV and utilising a pre-taught Neural network for face recognition. It was challenging project where we had to work together to research and apply new technologies, from which we achieved a working application that uses computer vision to control a Pong game build with Pygame, which was a lot of fun to build.
- - title: Senior Engineer
-   start: 2016
+   employer: Makers Academy Bootcamp
+   description: The bootcamp covered multiple languages throughout including Ruby, JavaScript and HTML which promoted the ability of being language agnostic and challenging me to apply these languages in practical projects. <br/><br/>
+                Learning Test Driven Development and the long-term benefits of using it.<br/><br/>
+                Regular research on new concepts, working on individual projects and continuously reaffirming knowledge from workshops.<br/><br/>
+                Practicing agile software development through driver-navigator style collaborative pairing, daily stand-ups and retros which also working on group projects.<br/><br/>
+                Final project at Makers, my group was very keen on working in a machine learning / AI project. We set ourselves a challenge to learn python, using libraries like OpenCV and utilising a pre-taught Neural network for face recognition. It was challenging project where we had to work together to research and apply new technologies, from which we achieved a working application that uses computer vision to control a Pong game build with Pygame, which was a lot of fun to build.
+ - title: Disney+ Content Prep Co-ordinator
+   start: 2017
+   end: 2019
+   employer: The Walt Disney Company (TWDC)
+   description: Responsible for researching, ordering and delivering both video and audio files to go onto the Disney+ app. The content I worked on was used for international launches and the continued development of the on demand app.<br/><br/>
+                Worked with complex spreadsheet trackers to coordinate workflow of individual files and inputting detailed content.<br/><br/>
+                Regularly co-ordinated with the team based at multiple locations to meet launch deadlines.
+ - title: Self-employed Massage Therapist
+   start: 2015
    end: 2017
-   employer: Emerald Street Ventures
-   description: Emerald Street Ventures was established as an incubator vehicle for the development of a number of software and legal-tech projects, and a rapidly growing, London-based start-up using innovative technologies to revolutionise and change the software and legal-tech landscape. Working with a range of cutting edge technologies and techniques including Scala, Cassandra, CoreOS, a variety of Machine Learning techniques.
- - title: Senior Engineer
+   employer: Peace & Relax Massage Therapy
+   description: Worked on a self-employed basis as a massage therapist.
+ - title: Digital Media Operator
    start: 2012
-   end: 2016
-   employer: Covestor
-   description: Covestor is an investment marketplace startup that was successfully acquired by Interactive Brokers in 2015. <br/> Working as a senior engineer, I worked closely with the CTO and across the full-stack, I was involved in all aspects of the technology including the website and back-end services.
- - title: Associate Manager
-   start: 2005
+   end: 2015
+   employer: Technicolor Creative Services
+   description: Created work for many well-known clients such as Google, Disney, Sky and Warner Bros.<br/><br/>
+                Successfully launched a mass migration project to digitise IMGs archive content on behalf of Technicolor at their facilities.<br/><br/>
+                Upkeep of relevant spreadsheets to be routinely shared with Technicolor accounts team and with the IMG media asset management team.<br/><br/>
+                Liaised with the client to have a timely and organised delivery of assets created by the Samma Robot.<br/><br/>
+                Regularly communicated with staff and clients at all levels of the organisation.
+ - title: Media Library Operator
+   start: 2010
    end: 2012
-   employer: Accenture
-   description: Working on a range of functional and technical roles, primarily working on client sites in Financial Services in London and Europe.
-
+   employer: Technicolor Creative Services
+   description: Retrieved requested media from the vast library on site.  This media would then be distributed in-house, nationally and internationally, as per the client’s request.<br/><br/>
+                Implementation of a more efficient cataloguing system, which improved working processes at the Technicolor physical library.
 #Education is required
 education:
  - level: Bachelor of Science (B.Sc.)
