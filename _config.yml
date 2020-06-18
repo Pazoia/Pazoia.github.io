@@ -98,17 +98,15 @@ education:
    subject: Equivalent to English GCSE
 
 #This section is optional (as is the image link below)
-coursera:
-   profileurl: https://www.coursera.org/user/i/c6362b4056f755a04bef6a791a62102b
+codecademy:
+   profileurl: https://www.codecademy.com/profiles/Pazoia
    courses:
-    - title: Functional Programming Principles in Scala
-      link: https://www.coursera.org/course/progfun
-      optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/progfun/small-icon.hover.png
-      date: September 16, 2013
-    - title: Algorithms Design and Analysis, Part 1
-      link: https://www.coursera.org/specializations/algorithms
-      optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/algo/small-icon.hover.png
-      date: April 28, 2014
+    - title: Learn Ruby 
+      link: https://www.codecademy.com/learn/learn-ruby
+      date: November 11, 2019
+    - title: Computer Science
+      link: https://www.codecademy.com/learn/paths/computer-science
+      date: To be completed
 
 #This section is optional - embeds slideshows from speakerdeck
 # to get the speakerdeck ID copy the embed code and look for the data-it attribute
