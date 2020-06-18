@@ -85,10 +85,17 @@ roles:
                 Implementation of a more efficient cataloguing system, which improved working processes at the Technicolor physical library.
 #Education is required
 education:
- - level: Bachelor of Science (B.Sc.)
-   date: 2003
-   subject: Artificial Intelligence and Computer Science
-   school: University of Birmingham
+ - level: Vocational Education
+   date: 2019
+   subject: Software Development
+   school: Makers Academy
+ - level: ITEC Level 3 and 4
+   date: 2014
+   subject: Sports Massage Therapy
+   school: Middlesex School of Complementary Medicine
+ - level: ESOL Intermediate and Advanced English
+   date: 2008
+   subject: Equivalent to English GCSE
 
 #This section is optional (as is the image link below)
 coursera:
