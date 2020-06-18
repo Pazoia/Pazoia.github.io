@@ -110,8 +110,10 @@ github:
  - Peter2-71828/MakersBNB
  - Megscode/acebook_undefined
 
-picture:
-  title: Testing
+#Stackoverflow flair is optional
+stackoverflow:
+   profileurl: https://stackoverflow.com/users/258813/rhinds
+   flairimageurl: https://stackoverflow.com/users/flair/258813.png
 
 intro: |
    I am a motivated full stack junior developer ready for a challenge and keen to keep learning. <br/><br/>
