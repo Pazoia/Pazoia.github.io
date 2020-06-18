@@ -22,19 +22,19 @@ primarylinks:
 #Any buzzword skills you want to include
 techskills:
  - Ruby
+ - Rspec
  - JavaScript
+ - Jasmine
+ - Sinatra
+ - Bootstrap
+ - Devise Controller
+ - Capybara
+ - Python
+ - Pytest
+ - Machine learning
  - HTML
  - CSS
- - 
- - 
- - 
- - 
- - 
- - 
- - SQL
- - 
- - Python
- - Machine learning
+ - Postgresql
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
 blogfeed: https://automateddeveloper.blogspot.com/feeds/posts/default?alt=json
