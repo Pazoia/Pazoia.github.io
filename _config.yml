@@ -108,35 +108,13 @@ codecademy:
       link: https://www.codecademy.com/learn/paths/computer-science
       date: To be completed
 
-#This section is optional - embeds slideshows from speakerdeck
-# to get the speakerdeck ID copy the embed code and look for the data-it attribute
-speakerdeck:
-   profileurl: https://speakerdeck.com/robhinds
-   talks:
-    - title: Product Management for Engineers
-      speakerdeckId: 94f0070c4e434ec79fe9b4eb2cb574e0
-      conference: API Conference, Berlin 2018
-    - title: Agile Machine Learning - from Theory to Production
-      speakerdeckId: ec84f2f56e9743afb0675b1eeeb6b6ce
-      conference: W-JAX Conference, Munich 2017 (London 2017)
-
 #List of interesting Github repo/projects to include - optional
 github:
- - robhinds/robhinds.github.io
- - robhinds/ScaLambda
- - robhinds/opinionated-akka-http
- - robhinds/food2vec
- - robhinds/microservices
- - robhinds/spring-social-geeklist
- - robhinds/spring-social-stackoverflow
- - robhinds/genotype
- - robhinds/footweets
- - robhinds/ElasticSearchGradle
-
-#Stackoverflow flair is optional
-stackoverflow:
-   profileurl: https://stackoverflow.com/users/258813/rhinds
-   flairimageurl: https://stackoverflow.com/users/flair/258813.png
+ - Pazoia/Pazoia.github.io
+ - Peter2-71828/PongNotPong
+ - Pazoia/PAZUL
+ - Peter2-71828/MakersBNB
+ - Megscode/acebook_undefined
 
 intro: |
    I am a motivated full stack junior developer ready for a challenge and keen to keep learning. <br/><br/>
