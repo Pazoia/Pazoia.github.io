@@ -47,11 +47,15 @@ blogfeed: https://automateddeveloper.blogspot.com/feeds/posts/default?alt=json
 
 #Work experience is required
 roles:
- - title: CTO
-   start: 2017
-   end: Ongoing
-   employer: Basement Crowd
-   description: Legaltech startup producing a range of innovative legal products. Products include <a href="https://www.juriosity.com" taget="_blank">Juriosity</a>, <a href="https://www.fromcounsel.com" taget="_blank">FromCounsel</a>, <a href="https://www.sparqa.com" taget="_blank">Sparqa</a>.
+ - title: Makers Academy Bootcamp
+   start: 2019
+   end: 2020
+   employer: Software Developer Student
+   description: The bootcamp covered multiple languages throughout including Ruby, JavaScript and HTML which promoted the ability of being language agnostic and challenging me to apply these languages in practical projects. <br/>
+                Learning Test Driven Development and the long-term benefits of using it.<br/>
+                Regular research on new concepts, working on individual projects and continuously reaffirming knowledge from workshops.<br/>
+                Practicing agile software development through driver-navigator style collaborative pairing, daily stand-ups and retros which also working on group projects.<br/>
+                Final project at Makers, my group was very keen on working in a machine learning / AI project. We set ourselves a challenge to learn python, using libraries like OpenCV and utilising a pre-taught Neural network for face recognition. It was challenging project where we had to work together to research and apply new technologies, from which we achieved a working application that uses computer vision to control a Pong game build with Pygame, which was a lot of fun to build.
  - title: Senior Engineer
    start: 2016
    end: 2017
