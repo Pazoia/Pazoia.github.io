@@ -105,6 +105,7 @@ codecademy:
 #List of interesting Github repo/projects to include - optional
 github:
  - Pazoia/Pazoia.github.io
+ - Pazoia/PAZUL
 
 #Stackoverflow flair is optional
 stackoverflow:
