@@ -104,11 +104,7 @@ codecademy:
 
 #List of interesting Github repo/projects to include - optional
 github:
- - Megscode/acebook_undefined
  - Pazoia/Pazoia.github.io
- - Peter2-71828/PongNotPong
- - Pazoia/PAZUL
- - Peter2-71828/MakersBNB
 
 #Stackoverflow flair is optional
 stackoverflow:
