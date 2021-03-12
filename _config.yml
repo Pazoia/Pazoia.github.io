@@ -15,18 +15,15 @@ primarylinks:
 
 #Any buzzword skills you want to include
 techskills:
- - Ruby
- - Rspec
  - JavaScript
- - Jasmine
- - Sinatra
- - Bootstrap
- - Devise Controller
- - Capybara
  - Python
- - Pytest
+ - Ruby
  - HTML
  - CSS
+ - Rspec
+ - Pytest
+ - Jasmine
+ - Sinatra
  - Postgresql
 
 personalskills:
