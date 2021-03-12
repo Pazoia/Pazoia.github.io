@@ -1,26 +1,48 @@
 {% if site.codecademy %}
-	<div id="coursesBubble" class="rounded_panel txt_lightgrey">
-		<div class="top-rounded-panel grey-bg">
-			<h1>Codecademy</h1>
-		</div>
-		<div class="content-rounded-panel">
-			<div id="codecademyPanel">
-				{% for course in site.codecademy.courses %}
-				<div class="row">
-					{% if course.optionalimage %}
-						<div class="col-sm-5">
-							<img src="{{course.optionalimage}}">
-						</div>
-					{% endif %}
-					<div class="col-sm-6">
-						<a target='_blank' href="{{course.link}}">
-							{{course.title}}
-						</a><br/>
-						<i>{{course.date}}</i>
-					</div>
-				</div><br/>
-				{% endfor %}
-			</div>
+<div id="coursesBubble" class="rounded_panel txt_lightgrey">
+	<div class="top-rounded-panel grey-bg">
+		<h1>Codecademy</h1>
+	</div>
+	<div class="content-rounded-panel">
+		<div id="codecademyPanel">
+			{% for course in site.codecademy.courses %}
+			<div class="row">
+				{% if course.optionalimage %}
+				<div class="col-sm-5">
+					<img src="{{course.optionalimage}}">
+				</div>
+				{% endif %}
+				<div class="col-sm-6">
+					<a target='_blank' href="{{course.link}}">
+						{{course.title}}
+					</a><br />
+					<i>{{course.date}}</i>
+				</div>
+			</div><br />
+			{% endfor %}
 		</div>
 	</div>
+	<div class="top-rounded-panel grey-bg">
+		<h1>Wes Bos</h1>
+	</div>
+	<div class="content-rounded-panel">
+		<div id="codecademyPanel">
+			{% for course in site.wes-bos.courses %}
+			<div class="row">
+				{% if course.optionalimage %}
+				<div class="col-sm-5">
+					<img src="{{course.optionalimage}}">
+				</div>
+				{% endif %}
+				<div class="col-sm-6">
+					<a target='_blank' href="{{course.link}}">
+						{{course.title}}
+					</a><br />
+					<i>{{course.date}}</i>
+				</div>
+			</div><br />
+			{% endfor %}
+		</div>
+	</div>
+</div>
 {% endif %}

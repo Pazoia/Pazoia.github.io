@@ -25,7 +25,6 @@ techskills:
  - Capybara
  - Python
  - Pytest
- - Machine learning
  - HTML
  - CSS
  - Postgresql
@@ -61,7 +60,10 @@ roles:
    start: 2015
    end: 2017
    employer: Peace and Relax Massage Therapy
-   description: Worked on a self-employed basis as a massage therapist.
+   description: Worked on a self-employed basis as a massage therapist. <br/>
+                I qualified in massage therapy whilst working at Technicolor, and in 2015 when Technicolor announced they were closing the site 
+                where I was working I was gratefull to have the chance to start my own business as a massage therapist.
+                I really enjoyed the overall experience of being a small business owner, and how much of my personality I could bring to it.
  - title: Digital Media Operator
    start: 2012
    end: 2015
@@ -98,9 +100,15 @@ codecademy:
     - title: Learn Ruby 
       link: https://www.codecademy.com/learn/learn-ruby
       date: November 11, 2019
-    - title: Computer Science
-      link: https://www.codecademy.com/learn/paths/computer-science
-      date: To be completed
+
+wes-bos:
+    courses:
+    - title: JavaScript30
+      link: https://javascript30.com/
+      date: February, 2021
+    - title: Beginner JavaScript
+      link: https://beginnerjavascript.com/
+      date: In Progress
 
 #List of interesting Github repo/projects to include - optional
 github:
@@ -113,7 +121,18 @@ stackoverflow:
    profileurl: https://stackoverflow.com/users/258813/rhinds
    flairimageurl: https://stackoverflow.com/users/flair/258813.png
 
-intro: |
-   I am a motivated full stack junior developer ready for a challenge and keen to keep learning. <br/><br/>
-   I recently completed the Makers coding bootcamp, yet I have 20 years’ experience in other industries where I have developed excellent attention to detail, organisation, and communication skills.<br/><br/>
-   I am currently building a game to enable me to learn Python and React and further my JavaScript knowledge.
+intro:
+   I am a motivated full stack junior developer ready for a challenge and keen to keep learning. 
+   <br/><br/>
+   I completed the Makers coding bootcamp last year in April, 
+   yet I have 20 years’ experience in other industries where I have developed excellent attention to detail, 
+   organisation, and communication skills.
+   <br/><br/>
+   After finishing the Makers Bootcamp I continued to focus on learning Python and to help me in doing so, 
+   I started building a game with Python for the back-end, and in January 2021 I started to focus on learning JavaScript 
+   and CSS to build the front-end. I completed a JavaScript challenge from Wes Bos where I was working on small projects 
+   everyday for 30 days which was a lot of fun, and I'm now doing a JavaScript course from him also.
+   <br/>
+   Once I finish the JavaScript course I plan to do a course on React to add to my skillset.
+
+
