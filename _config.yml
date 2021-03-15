@@ -41,31 +41,38 @@ roles:
    start: 2020
    end: 2020
    employer: Makers Academy Bootcamp
-   description: The bootcamp covered multiple languages throughout including Ruby, JavaScript and HTML which promoted the ability of being language agnostic and challenging me to apply these languages in practical projects. <br/><br/>
-                Learning Test Driven Development and the long-term benefits of using it.<br/><br/>
-                Regular research on new concepts, working on individual projects and continuously reaffirming knowledge from workshops.<br/><br/>
-                Practicing agile software development through driver-navigator style collaborative pairing, daily stand-ups and retros which also working on group projects.<br/><br/>
+   description: The bootcamp covered multiple languages throughout including Ruby, JavaScript and HTML which promoted the ability 
+                of being language agnostic and challenging me to apply these languages in practical projects.
+                <br/><br/>
+                Learning Test Driven Development and the long-term benefits of using it.
+                <br/><br/>
+                Comfortable with researching docs, google and stackoverflow.
+                <br/><br/>
+                Practicing agile software development through driver-navigator style collaborative pairing, daily stand-ups and retros which also working on group projects.
+                <br/><br/>
                 Final project at Makers, my group was very keen on working in a machine learning / AI project. We set ourselves a challenge to learn python, using libraries like OpenCV and utilising a pre-taught Neural network for face recognition. It was challenging project where we had to work together to research and apply new technologies, from which we achieved a working application that uses computer vision to control a Pong game build with Pygame, which was a lot of fun to build.
  - title: Content Prep Co-ordinator
    start: 2017
    end: 2019
    employer: The Walt Disney Company
-   description: Responsible for researching, ordering and delivering both video and audio files to go onto the Disney+ app. The content I worked on was used for international launches and the continued development of the on demand app.<br/><br/>
+   description: Responsible for researching, ordering and delivering both video and audio files to go onto the Disney+ app. The 
+                content I worked on was used for international launches and the continued development of the on-demand app.<br/><br/>
                 Worked with complex spreadsheet trackers to coordinate workflow of individual files and inputting detailed content.<br/><br/>
-                Regularly co-ordinated with the team based at multiple locations to meet launch deadlines.
+                Regularly coordinated with internal and external teams to meet launch deadlines.
  - title: Self-employed Massage Therapist
    start: 2015
    end: 2017
    employer: Peace and Relax Massage Therapy
-   description: Worked on a self-employed basis as a massage therapist. <br/>
+   description: Worked on a self-employed basis as a massage therapist.
+                <br/><br/>
                 I qualified in massage therapy whilst working at Technicolor, and in 2015 when Technicolor announced they were closing the site 
-                where I was working I was gratefull to have the chance to start my own business as a massage therapist.
+                where I was working, I was grateful to have the chance to start my own business as a massage therapist.
                 I really enjoyed the overall experience of being a small business owner, and how much of my personality I could bring to it.
  - title: Digital Media Operator
    start: 2012
    end: 2015
    employer: Technicolor Creative Services
-   description: Created work for many well-known clients such as Google, Disney, Sky and Warner Bros.<br/><br/>
+   description: Created work for many well-known clients such as Google, Disney, Sky    and Warner Bros.<br/><br/>
                 Successfully launched a mass migration project to digitise IMGs archive content on behalf of Technicolor at their facilities.<br/><br/>
                 Upkeep of relevant spreadsheets to be routinely shared with Technicolor accounts team and with the IMG media asset management team.<br/><br/>
                 Liaised with the client to have a timely and organised delivery of assets created by the Samma Robot.<br/><br/>
@@ -82,9 +89,13 @@ education:
    date: 2020
    subject: Software Development
    school: Makers Academy
+ - level: ITEC Level 4 Certificate
+   date: 2015
+   subject: Sports Massage Therapy
+   school: Middlesex School of Complementary Medicine
  - level: ITEC Level 3 and 4
    date: 2014
-   subject: Sports Massage Therapy
+   subject: Swedish Massage Therapy
    school: Middlesex School of Complementary Medicine
  - level: ESOL Intermediate and Advanced English
    date: 2008
@@ -103,9 +114,6 @@ wes-bos:
     - title: JavaScript30
       link: https://javascript30.com/
       date: February, 2021
-    - title: Beginner JavaScript
-      link: https://beginnerjavascript.com/
-      date: In Progress
 
 #List of interesting Github repo/projects to include - optional
 github:
@@ -121,15 +129,8 @@ stackoverflow:
 intro:
    I am a motivated full stack junior developer ready for a challenge and keen to keep learning. 
    <br/><br/>
-   I completed the Makers coding bootcamp last year in April, 
-   yet I have 20 years’ experience in other industries where I have developed excellent attention to detail, 
-   organisation, and communication skills.
+   I completed the Makers coding bootcamp last year in April, after my graduation I continued to focus on learning and practicing  software development, to help me in doing so, I started building a game with Python, I also completed a JavaScript challenge from Wes Bos where I was working on small projects every day for 30 days which was a lot of fun.
    <br/><br/>
-   After finishing the Makers Bootcamp I continued to focus on learning Python and to help me in doing so, 
-   I started building a game with Python for the back-end, and in January 2021 I started to focus on learning JavaScript 
-   and CSS to build the front-end. I completed a JavaScript challenge from Wes Bos where I was working on small projects 
-   everyday for 30 days which was a lot of fun, and I'm now doing a JavaScript course from him also.
-   <br/>
-   Once I finish the JavaScript course I plan to do a course on React to add to my skillset.
-
-
+   Although my background is quite diverse, what inspired me the most to pursue software development was working on projects 
+   in digital media where I saw the possibility to improve workflows and processes with technology 
+   and create solutions to such problems.
