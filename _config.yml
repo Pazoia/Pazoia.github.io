@@ -41,12 +41,13 @@ roles:
    start: 2020
    end: 2020
    employer: Makers Academy Bootcamp
-   description: The bootcamp covered multiple languages throughout including Ruby, JavaScript and HTML which promoted the ability 
+   description: The bootcamp covered multiple languages throughout including Ruby 
+                JavaScript and HTML which promoted the ability 
                 of being language agnostic and challenging me to apply these languages in practical projects.
                 <br/><br/>
-                Learning Test Driven Development and the long-term benefits of using it.
+                Understand Test Driven Development and the long-term benefits of using it.
                 <br/><br/>
-                Comfortable with researching docs, google and stackoverflow.
+                Confidently research using docs, google and stackoverflow etc.
                 <br/><br/>
                 Practicing agile software development through driver-navigator style collaborative pairing, daily stand-ups and retros which also working on group projects.
                 <br/><br/>
@@ -55,15 +56,20 @@ roles:
    start: 2017
    end: 2019
    employer: The Walt Disney Company
-   description: Responsible for researching, ordering and delivering both video and audio files to go onto the Disney+ app. The 
-                content I worked on was used for international launches and the continued development of the on-demand app.<br/><br/>
-                Worked with complex spreadsheet trackers to coordinate workflow of individual files and inputting detailed content.<br/><br/>
+   description: Responsible for researching, ordering and delivering both video and 
+                files to go onto the Disney+ app. The 
+                content I worked on was used for international launches and the continued development of the on-demand app.
+                <br/><br/>
+                Worked with complex spreadsheet trackers to coordinate workflow of individual files and inputting detailed content.
+                <br/><br/>
                 Regularly coordinated with internal and external teams to meet launch deadlines.
  - title: Self-employed Massage Therapist
    start: 2015
    end: 2017
    employer: Peace and Relax Massage Therapy
    description: Worked on a self-employed basis as a massage therapist.
+                <br/><br/>
+                Meeting the client’s expectations by listening to their concerns, communicating clearly the effects of each treatment and deciding the correct approach.
                 <br/><br/>
                 I qualified in massage therapy whilst working at Technicolor, and in 2015 when Technicolor announced they were closing the site 
                 where I was working, I was grateful to have the chance to start my own business as a massage therapist.
@@ -72,17 +78,26 @@ roles:
    start: 2012
    end: 2015
    employer: Technicolor Creative Services
-   description: Created work for many well-known clients such as Google, Disney, Sky    and Warner Bros.<br/><br/>
-                Successfully launched a mass migration project to digitise IMGs archive content on behalf of Technicolor at their facilities.<br/><br/>
-                Upkeep of relevant spreadsheets to be routinely shared with Technicolor accounts team and with the IMG media asset management team.<br/><br/>
-                Liaised with the client to have a timely and organised delivery of assets created by the Samma Robot.<br/><br/>
+   description: Created work for many well-known clients such as Google, Disney, Sky and 
+                Warner Bros.
+                <br/><br/>
+                Successfully launched a mass migration project to digitise IMGs archive content on behalf of Technicolor at their facilities.
+                <br/><br/>
+                Upkeep of relevant spreadsheets to be routinely shared with Technicolor accounts team and with the IMG media asset management team.
+                <br/><br/>
+                Liaised with the client to have a timely and organised delivery of assets created by the Samma Robot.
+                <br/><br/>
                 Regularly communicated with staff and clients at all levels of the organisation.
  - title: Media Library Operator
    start: 2010
    end: 2012
    employer: Technicolor Creative Services
-   description: Retrieved requested media from the vast library on site.  This media would then be distributed in-house, nationally and internationally, as per the client’s request.<br/><br/>
-                Implementation of a more efficient cataloguing system, which improved working processes at the Technicolor physical library.
+   description: Retrieved requested media from the vast library on site.  This media would 
+                then be distributed in-house, nationally and internationally, as per the 
+                client’s request.
+                <br/><br/>
+                Implementation of a more efficient cataloguing system, which improved 
+                working processes at the Technicolor physical library.
 #Education is required
 education:
  - level: Makers Academy Graduation
@@ -129,8 +144,6 @@ stackoverflow:
 intro:
    I am a motivated full stack junior developer ready for a challenge and keen to keep learning. 
    <br/><br/>
-   I completed the Makers coding bootcamp last year in April, after my graduation I continued to focus on learning and practicing  software development, to help me in doing so, I started building a game with Python, I also completed a JavaScript challenge from Wes Bos where I was working on small projects every day for 30 days which was a lot of fun.
+   In recent years I’ve worked in digital media where the opportunities to improve processes and data flow inspired me to pursue software development.
    <br/><br/>
-   Although my background is quite diverse, what inspired me the most to pursue software development was working on projects 
-   in digital media where I saw the possibility to improve workflows and processes with technology 
-   and create solutions to such problems.
+   I completed the Makers coding bootcamp one year ago, and since then I have focused my energy on building my skill set by continually learning new languages and applying these to projects such as a game I started building in Python. I also completed a JavaScript challenge from Wes Bos where I was working on small projects every day for 30 days which was a lot of fun.
