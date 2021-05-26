@@ -25,6 +25,7 @@ techskills:
  - Jasmine
  - Sinatra
  - Postgresql
+ - ESLint / Prettier
 
 personalskills:
  - Organisation
@@ -129,10 +130,16 @@ wes-bos:
     - title: JavaScript30
       link: https://javascript30.com/
       date: February, 2021
+    - title: JavaScript for Beginners
+      link: https://beginnerjavascript.com/
+      date: May, 2021
+    - title: React for Beginners
+      link: https://reactforbeginners.com/
+      date: In Progress
 
 #List of interesting Github repo/projects to include - optional
 github:
- - Pazoia/Pazoia.github.io
+ - Pazoia/JavaScript30_day-30_Whack-a-Mole-game
  - Pazoia/PAZUL
  - Pazoia/PongNotPong
 
