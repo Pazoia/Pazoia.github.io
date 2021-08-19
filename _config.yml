@@ -118,7 +118,7 @@ education:
    subject: Equivalent to English GCSE
 
 #This section is optional (as is the image link below)
-codecademy:
+codecademy:  
    profileurl: https://www.codecademy.com/profiles/Pazoia
    courses:
     - title: Learn Ruby 
@@ -139,13 +139,6 @@ wes-bos:
     - title: Advanced React and GraphQL
       link: https://advancedreact.com/
       date: In Progress
-
-udemy:
-    courses:
-    - title: Node.js, Express, MongoDB & More - The Complete Bootcamp 2021
-      link: https://www.udemy.com/course/nodejs-express-mongodb-bootcamp/
-      date: In Progress
-
 
 #List of interesting Github repo/projects to include - optional
 github:
