@@ -135,7 +135,14 @@ wes-bos:
       date: May, 2021
     - title: React for Beginners
       link: https://reactforbeginners.com/
+      date: Jun, 2021
+    - title: Advanced React and GraphQL
+      link: https://advancedreact.com/
       date: In Progress
+    - title: Node.js, Express, MongoDB & More - The Complete Bootcamp 2021
+      link: https://www.udemy.com/course/nodejs-express-mongodb-bootcamp/
+      date: In Progress
+
 
 #List of interesting Github repo/projects to include - optional
 github:
