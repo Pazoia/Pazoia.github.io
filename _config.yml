@@ -118,14 +118,14 @@ education:
    subject: Equivalent to English GCSE
 
 #This section is optional (as is the image link below)
-Codecademy:
+codecademy:
    profileurl: https://www.codecademy.com/profiles/Pazoia
    courses:
     - title: Learn Ruby 
       link: https://www.codecademy.com/learn/learn-ruby
       date: November 11, 2019
 
-Wes-Bos:
+wes-bos:
     courses:
     - title: JavaScript30
       link: https://javascript30.com/
@@ -140,7 +140,7 @@ Wes-Bos:
       link: https://advancedreact.com/
       date: In Progress
 
-Udemy:
+udemy:
     courses:
     - title: Node.js, Express, MongoDB & More - The Complete Bootcamp 2021
       link: https://www.udemy.com/course/nodejs-express-mongodb-bootcamp/
