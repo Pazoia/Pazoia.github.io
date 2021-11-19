@@ -8,125 +8,130 @@ markdown: kramdown
 #User specific content
 #Links that will appear in the navbar
 primarylinks:
- - title: GitHub
-   url: https://github.com/Pazoia
- - title: LinkedIn
-   url: https://www.linkedin.com/in/paulo-azoia-5b9045a0/
+  - title: GitHub
+    url: https://github.com/Pazoia
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/paulo-azoia-5b9045a0/
 
 #Any buzzword skills you want to include
 techskills:
- - JavaScript
- - Python
- - Ruby
- - HTML
- - CSS
- - Rspec
- - Pytest
- - Jasmine
- - Sinatra
- - Postgresql
- - ESLint / Prettier
+  - JavaScript
+  - React
+  - HTML
+  - CSS
+  - Ruby
+  - Python
+  - Jasmine
+  - Rspec
+  - Pytest
+  - Sinatra
+  - Postgresql
+  - ESLint / Prettier
 
 personalskills:
- - Organisation
- - Attention to detail
- - Customer Service
- - Fluent English & Portuguese
+  - Organisation
+  - Attention to detail
+  - Customer Service
+  - Fluent English & Portuguese
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
 blogfeed: https://automateddeveloper.blogspot.com/feeds/posts/default?alt=json
 
 #Work experience is required
 roles:
- - title: Software Developer Student
-   start: 2020
-   end: 2020
-   employer: Makers Academy Bootcamp
-   description: The bootcamp covered multiple languages throughout including Ruby 
-                JavaScript and HTML which promoted the ability 
-                of being language agnostic and challenging me to apply these languages in practical projects.
-                <br/><br/>
-                Understand Test Driven Development and the long-term benefits of using it.
-                <br/><br/>
-                Confidently research using docs, google and stackoverflow etc.
-                <br/><br/>
-                Practicing agile software development through driver-navigator style collaborative pairing, daily stand-ups and retros which also working on group projects.
-                <br/><br/>
-                Final project at Makers, my group was very keen on working in a machine learning / AI project. We set ourselves a challenge to learn python, using libraries like OpenCV and utilising a pre-taught Neural network for face recognition. It was challenging project where we had to work together to research and apply new technologies, from which we achieved a working application that uses computer vision to control a Pong game build with Pygame, which was a lot of fun to build.
- - title: Content Prep Co-ordinator
-   start: 2017
-   end: 2019
-   employer: The Walt Disney Company
-   description: Responsible for researching, ordering and delivering both video and 
-                files to go onto the Disney+ app. The 
-                content I worked on was used for international launches and the continued development of the on-demand app.
-                <br/><br/>
-                Worked with complex spreadsheet trackers to coordinate workflow of individual files and inputting detailed content.
-                <br/><br/>
-                Regularly coordinated with internal and external teams to meet launch deadlines.
- - title: Self-employed Massage Therapist
-   start: 2015
-   end: 2017
-   employer: Peace and Relax Massage Therapy
-   description: Worked on a self-employed basis as a massage therapist.
-                <br/><br/>
-                Meeting the client’s expectations by listening to their concerns, communicating clearly the effects of each treatment and deciding the correct approach.
-                <br/><br/>
-                I qualified in massage therapy whilst working at Technicolor, and in 2015 when Technicolor announced they were closing the site 
-                where I was working, I was grateful to have the chance to start my own business as a massage therapist.
-                I really enjoyed the overall experience of being a small business owner, and how much of my personality I could bring to it.
- - title: Digital Media Operator
-   start: 2012
-   end: 2015
-   employer: Technicolor Creative Services
-   description: Created work for many well-known clients such as Google, Disney, Sky and 
-                Warner Bros.
-                <br/><br/>
-                Successfully launched a mass migration project to digitise IMGs archive content on behalf of Technicolor at their facilities.
-                <br/><br/>
-                Upkeep of relevant spreadsheets to be routinely shared with Technicolor accounts team and with the IMG media asset management team.
-                <br/><br/>
-                Liaised with the client to have a timely and organised delivery of assets created by the Samma Robot.
-                <br/><br/>
-                Regularly communicated with staff and clients at all levels of the organisation.
- - title: Media Library Operator
-   start: 2010
-   end: 2012
-   employer: Technicolor Creative Services
-   description: Retrieved requested media from the vast library on site.  This media would 
-                then be distributed in-house, nationally and internationally, as per the 
-                client’s request.
-                <br/><br/>
-                Implementation of a more efficient cataloguing system, which improved 
-                working processes at the Technicolor physical library.
+  - title: Software Developer Student
+    start: 2020
+    end: 2020
+    employer: Makers Academy Bootcamp
+    description:
+      The bootcamp covered multiple languages throughout including Ruby
+      JavaScript and HTML which promoted the ability
+      of being language agnostic and challenging me to apply these languages in practical projects.
+      <br/><br/>
+      Understand Test Driven Development and the long-term benefits of using it.
+      <br/><br/>
+      Confidently research using docs, google and stackoverflow etc.
+      <br/><br/>
+      Practicing agile software development through driver-navigator style collaborative pairing, daily stand-ups and retros which also working on group projects.
+      <br/><br/>
+      Final project at Makers, my group was very keen on working in a machine learning / AI project. We set ourselves a challenge to learn python, using libraries like OpenCV and utilising a pre-taught Neural network for face recognition. It was challenging project where we had to work together to research and apply new technologies, from which we achieved a working application that uses computer vision to control a Pong game build with Pygame, which was a lot of fun to build.
+  - title: Content Prep Co-ordinator
+    start: 2017
+    end: 2019
+    employer: The Walt Disney Company
+    description:
+      Responsible for researching, ordering and delivering both video and
+      files to go onto the Disney+ app. The
+      content I worked on was used for international launches and the continued development of the on-demand app.
+      <br/><br/>
+      Worked with complex spreadsheet trackers to coordinate workflow of individual files and inputting detailed content.
+      <br/><br/>
+      Regularly coordinated with internal and external teams to meet launch deadlines.
+  - title: Self-employed Massage Therapist
+    start: 2015
+    end: 2017
+    employer: Peace and Relax Massage Therapy
+    description: Worked on a self-employed basis as a massage therapist.
+      <br/><br/>
+      Meeting the client’s expectations by listening to their concerns, communicating clearly the effects of each treatment and deciding the correct approach.
+      <br/><br/>
+      I qualified in massage therapy whilst working at Technicolor, and in 2015 when Technicolor announced they were closing the site
+      where I was working, I was grateful to have the chance to start my own business as a massage therapist.
+      I really enjoyed the overall experience of being a small business owner, and how much of my personality I could bring to it.
+  - title: Digital Media Operator
+    start: 2012
+    end: 2015
+    employer: Technicolor Creative Services
+    description:
+      Created work for many well-known clients such as Google, Disney, Sky and
+      Warner Bros.
+      <br/><br/>
+      Successfully launched a mass migration project to digitise IMGs archive content on behalf of Technicolor at their facilities.
+      <br/><br/>
+      Upkeep of relevant spreadsheets to be routinely shared with Technicolor accounts team and with the IMG media asset management team.
+      <br/><br/>
+      Liaised with the client to have a timely and organised delivery of assets created by the Samma Robot.
+      <br/><br/>
+      Regularly communicated with staff and clients at all levels of the organisation.
+  - title: Media Library Operator
+    start: 2010
+    end: 2012
+    employer: Technicolor Creative Services
+    description:
+      Retrieved requested media from the vast library on site.  This media would
+      then be distributed in-house, nationally and internationally, as per the
+      client’s request.
+      <br/><br/>
+      Implementation of a more efficient cataloguing system, which improved
+      working processes at the Technicolor physical library.
 #Education is required
 education:
- - level: Makers Academy Graduation
-   date: 2020
-   subject: Software Development
-   school: Makers Academy
- - level: ITEC Level 4 Certificate
-   date: 2015
-   subject: Sports Massage Therapy
-   school: Middlesex School of Complementary Medicine
- - level: ITEC Level 3 and 4
-   date: 2014
-   subject: Swedish Massage Therapy
-   school: Middlesex School of Complementary Medicine
- - level: ESOL Intermediate and Advanced English
-   date: 2008
-   subject: Equivalent to English GCSE
+  - level: Makers Academy Graduation
+    date: 2020
+    subject: Software Development
+    school: Makers Academy
+  - level: ITEC Level 4 Certificate
+    date: 2015
+    subject: Sports Massage Therapy
+    school: Middlesex School of Complementary Medicine
+  - level: ITEC Level 3 and 4
+    date: 2014
+    subject: Swedish Massage Therapy
+    school: Middlesex School of Complementary Medicine
+  - level: ESOL Intermediate and Advanced English
+    date: 2008
+    subject: Equivalent to English GCSE
 
 #This section is optional (as is the image link below)
-codecademy:  
-   profileurl: https://www.codecademy.com/profiles/Pazoia
-   courses:
-    - title: Learn Ruby 
+codecademy:
+  profileurl: https://www.codecademy.com/profiles/Pazoia
+  courses:
+    - title: Learn Ruby
       link: https://www.codecademy.com/learn/learn-ruby
       date: November 11, 2019
 
 wes-bos:
-    courses:
+  courses:
     - title: JavaScript30
       link: https://javascript30.com/
       date: February, 2021
@@ -142,18 +147,19 @@ wes-bos:
 
 #List of interesting Github repo/projects to include - optional
 github:
- - Pazoia/JavaScript30_day-30_Whack-a-Mole-game
- - Pazoia/PAZUL
- - Pazoia/PongNotPong
+  - Pazoia/Where-is-my-Paradise
+  - Pazoia/JavaScript30_day-30_Whack-a-Mole-game
+  - Pazoia/PAZUL
+  - Pazoia/PongNotPong
 
 #Stackoverflow flair is optional
 stackoverflow:
-   profileurl: https://stackoverflow.com/users/258813/rhinds
-   flairimageurl: https://stackoverflow.com/users/flair/258813.png
+  profileurl: https://stackoverflow.com/users/258813/rhinds
+  flairimageurl: https://stackoverflow.com/users/flair/258813.png
 
 intro:
-   I am a motivated full stack junior developer ready for a challenge and keen to keep learning. 
-   <br/><br/>
-   In recent years I’ve worked in digital media where the opportunities to improve processes and data flow inspired me to pursue software development.
-   <br/><br/>
-   I completed the Makers coding bootcamp one year ago, and since then I have focused my energy on building my skill set by continually learning new languages and applying these to projects such as a game I started building in Python. I also completed a JavaScript challenge from Wes Bos where I was working on small projects every day for 30 days which was a lot of fun.
+  I am a motivated full stack junior developer ready for a challenge and keen to keep learning.
+  <br/><br/>
+  In recent years I’ve worked in digital media where the opportunities to improve processes and data flow inspired me to pursue software development.
+  <br/><br/>
+  I completed the Makers coding bootcamp last year, and since then I have focused my energy on building my skill set by continually learning new languages and applying these to projects such as a wellbing app that I am currently building with React. I also completed an online JavaScript challenge where I was working on small projects every day for 30 days which was a lot of fun.
