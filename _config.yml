@@ -15,12 +15,14 @@ primarylinks:
 
 #Any buzzword skills you want to include
 techskills:
-  - JavaScript
+  - Python
   - React
+  - JavaScript
   - HTML
   - CSS
+  - TeamCity
+  - Docker
   - Ruby
-  - Python
   - Jasmine
   - Rspec
   - Pytest
@@ -39,6 +41,21 @@ blogfeed: https://automateddeveloper.blogspot.com/feeds/posts/default?alt=json
 
 #Work experience is required
 roles:
+  - title: Associate Software Engineer
+    start: 2022
+    end: Present
+    employer: Eigen Technologies
+    description: Improved user experience, both in the back-end and front-end
+      by contributing to a feature that was added to the product last year.
+      <br/><br/>
+      More recently moved to a small team of 4 engineers,
+      working on a vital side of the product, this service is currently lacking documentation,
+      and our team is working on researching and documenting our findings.
+      Adapting the service to accept new licenses and newer features that come with outsourced upgraded software.
+      <br/><br/>
+      Collaborating on code quality, refactoring tests and code base where possible
+      to increase the product performance and code readability.
+
   - title: Software Developer Student
     start: 2020
     end: 2020
