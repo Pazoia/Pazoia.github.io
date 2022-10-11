@@ -45,16 +45,18 @@ roles:
     start: 2022
     end: Present
     employer: Eigen Technologies
-    description: Improved user experience, both in the back-end and front-end
-      by contributing to a feature that was added to the product last year.
+    description:
+      Improve user experience both in the back-end and front-end by contributing to new and
+      existing features.
       <br/><br/>
-      More recently moved to a small team of 4 engineers,
-      working on a vital side of the product, this service is currently lacking documentation,
-      and our team is working on researching and documenting our findings.
-      Adapting the service to accept new licenses and newer features that come with outsourced upgraded software.
+      Working with a small team on the natural language processing (NLP) function to research &
+      test the upgrade of licenced software within the platform and it's dependencies. Improving the
+      NLP documentation to improve understanding of the code base and efficiency in future work.
       <br/><br/>
-      Collaborating on code quality, refactoring tests and code base where possible
-      to increase the product performance and code readability.
+      Using Docker to test reliability of updates & deploy new versions of the product.
+      <br/><br/>
+      Pair programming on tasks ensuring code quality, refactoring tests and code base where
+      possible to increase the product performance and code readability.
 
   - title: Software Developer Student
     start: 2020
@@ -175,8 +177,9 @@ stackoverflow:
   flairimageurl: https://stackoverflow.com/users/flair/258813.png
 
 intro:
-  I am a motivated full stack junior developer ready for a challenge and keen to keep learning.
+  I am a motivated full-stack developer ready for a challenge and keen to keep learning.
+  Coming from a background in digital media I was inspired by the opportunities to improve processes and data flow.
   <br/><br/>
-  In recent years I’ve worked in digital media where the opportunities to improve processes and data flow inspired me to pursue software development.
-  <br/><br/>
-  I completed the Makers coding bootcamp last year, and since then I have focused my energy on building my skill set by continually learning new languages and applying these to projects such as a wellbeing app that I am currently building with React. I also completed an online JavaScript challenge where I was working on small projects every day for 30 days which was a lot of fun.
+  As a friendly individual I enjoy collaborating with colleagues,
+  learning from them and contributing to the join success of the company.
+  My keen attention to detail helps me troubleshoot errors effectively and improve code continuously.
