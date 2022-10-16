@@ -18,11 +18,13 @@ techskills:
   - Python
   - React
   - JavaScript
+  - Ruby
   - HTML
   - CSS
+  - Django
+  - Ansible
   - TeamCity
   - Docker
-  - Ruby
   - Jasmine
   - Rspec
   - Pytest
@@ -167,7 +169,7 @@ wes-bos:
 #List of interesting Github repo/projects to include - optional
 github:
   - Pazoia/Where-is-my-Paradise
-  - Pazoia/JavaScript30_day-30_Whack-a-Mole-game
+  - Pazoia/python-document-scraping-tool
   - Pazoia/PAZUL
   - Pazoia/PongNotPong
 
@@ -179,6 +181,11 @@ stackoverflow:
 intro:
   I am a motivated full-stack developer ready for a challenge and keen to keep learning.
   Coming from a background in digital media I was inspired by the opportunities to improve processes and data flow.
+  <br/><br/>
+  I feel my career has really taken off since joining Eigen Technologies. I’ve contributed to the
+  product from day one working on features reliant on React & Python. I’ve had exposure to
+  various technologies since with my current focus on deployments using Docker and saving
+  secrets using Ansible.
   <br/><br/>
   As a friendly individual I enjoy collaborating with colleagues,
   learning from them and contributing to the join success of the company.
