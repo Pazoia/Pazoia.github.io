@@ -14,22 +14,38 @@ primarylinks:
     url: https://www.linkedin.com/in/paulo-azoia-5b9045a0/
 
 #Any buzzword skills you want to include
-techskills:
+cmlanguages:
   - Python
-  - React
   - JavaScript
-  - Ruby
   - HTML
   - CSS
+
+cmlibrariesandframeworks:
   - Django
-  - Ansible
-  - TeamCity
-  - Docker
-  - Jasmine
-  - Rspec
+  - React
+  - Swagger Docs
+
+cmtestingframeworks:
   - Pytest
-  - Sinatra
+  - Jest
+  - Enzyme
+
+cmdeployment:
+  - Docker
+  - TeamCity
+  - Kubernetes (basic knowledge)
+
+cmdatabases:
   - Postgresql
+  - MongoDB
+
+otherskills:
+  - Ruby
+  - Ruby on Rails
+  - Rspec
+  - Jasmine
+  - Sinatra
+  - Sqlite3
   - ESLint / Prettier
 
 personalskills:
@@ -52,7 +68,7 @@ roles:
       existing features.
       <br/><br/>
       Working with a small team on the natural language processing (NLP) function to research &
-      test the upgrade of licenced software within the platform and it's dependencies. Improving the
+      test the upgrade of licensed software within the platform and it's dependencies. Improving the
       NLP documentation to improve understanding of the code base and efficiency in future work.
       <br/><br/>
       Using Docker to test reliability of updates & deploy new versions of the product.
@@ -107,7 +123,7 @@ roles:
       Created work for many well-known clients such as Google, Disney, Sky and
       Warner Bros.
       <br/><br/>
-      Successfully launched a mass migration project to digitise IMGs archive content on behalf of Technicolor at their facilities.
+      Successfully launched a mass migration project to digitise IMGs' archive content on behalf of Technicolor at their facilities.
       <br/><br/>
       Upkeep of relevant spreadsheets to be routinely shared with Technicolor accounts team and with the IMG media asset management team.
       <br/><br/>

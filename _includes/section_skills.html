@@ -3,11 +3,48 @@
 		<h1 id="user-skills">Technical Skills</h1>
 	</div>
 	<div class="content-rounded-panel">
-
+		
 		<div id="skills">
-			{% for skill in site.techskills %}
-				<span class="label label-info label-padded"> {{skill}} </span> &nbsp;
-			{% endfor %}
+			
+			<h2 class="skills-breakdown-header">ᐉ Commercial experience</h2>
+			<div class="skills-breakdown">
+				<h2 class="skills-breakdown-sections">Languages:</h2>
+				{% for skill in site.cmlanguages %}
+					<span class="label label-info label-padded"> {{skill}} </span> &nbsp;
+				{% endfor %}
+			</div>
+			<div class="skills-breakdown">
+				<h2 class="skills-breakdown-sections">Libraries & Frameworks:</h2>
+				{% for skill in site.cmlibrariesandframeworks %}
+					<span class="label label-info label-padded"> {{skill}} </span> &nbsp;
+				{% endfor %}
+			</div>
+			<div class="skills-breakdown">
+				<h2 class="skills-breakdown-sections">Testing Frameworks:</h2>
+				{% for skill in site.cmtestingframeworks %}
+					<span class="label label-info label-padded"> {{skill}} </span> &nbsp;
+				{% endfor %}
+			</div>
+			<div class="skills-breakdown">
+				<h2 class="skills-breakdown-sections">Deployment:</h2>
+				{% for skill in site.cmdeployment %}
+					<span class="label label-info label-padded"> {{skill}} </span> &nbsp;
+				{% endfor %}
+			</div>
+			<div class="skills-breakdown">
+				<h2 class="skills-breakdown-sections">Databases:</h2>
+				{% for skill in site.cmdatabases %}
+					<span class="label label-info label-padded"> {{skill}} </span> &nbsp;
+				{% endfor %}
+			</div>
+
+			<h2 class="skills-breakdown-header">ᐉ Skills gained through personal growth</h2>
+			<div class="skills-breakdown">
+				{% for skill in site.otherskills %}
+					<span class="label label-info label-padded"> {{skill}} </span> &nbsp;
+				{% endfor %}
+			</div>
+
 		</div>
 	</div>
 	<div class="top-rounded-panel grey-bg">
