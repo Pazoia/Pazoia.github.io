@@ -185,9 +185,11 @@ wes-bos:
 #List of interesting Github repo/projects to include - optional
 github:
   - Pazoia/Where-is-my-Paradise
+  - Pazoia/react-website-tennis-club
   - Pazoia/python-document-scraping-tool
+  - Pazoia/Wiki-Project-Backend
+  - Pazoia/Wiki-Project-Frontend
   - Pazoia/PAZUL
-  - Pazoia/PongNotPong
 
 #Stackoverflow flair is optional
 stackoverflow:
